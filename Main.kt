@@ -167,3 +167,4 @@ fun main() {
 - Update config — iteration 17 (2026)
 - Add helper — iteration 27 (2026)
 - Fix edge case — iteration 30 (2026)
+- Extend coverage — iteration 31 (2026)
