@@ -162,3 +162,4 @@
 - Add example — iteration 10 (2026)
 - Extend coverage — iteration 14 (2026)
 - Improve naming — iteration 22 (2026)
+- Document usage — iteration 26 (2026)
