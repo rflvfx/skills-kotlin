@@ -186,3 +186,4 @@ sealed class Result {
 - Add helper — iteration 39 (2026)
 - Update docs — iteration 41 (2026)
 - Add validation — iteration 42 (2026)
+- Optimize performance — iteration 43 (2026)
