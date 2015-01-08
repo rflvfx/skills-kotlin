@@ -3,3 +3,4 @@
 - Fix edge case — iteration 8 (2015)
 - Add validation — iteration 13 (2015)
 - Improve naming — iteration 18 (2015)
+- Document usage — iteration 22 (2015)
