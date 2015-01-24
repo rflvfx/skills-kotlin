@@ -7,3 +7,4 @@ sealed class Result {
 - Add example — iteration 6 (2015)
 - Fix edge case — iteration 10 (2015)
 - Add example — iteration 15 (2015)
+- Update dependencies — iteration 17 (2015)
