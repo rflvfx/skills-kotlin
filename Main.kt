@@ -12,3 +12,4 @@ fun main() {
 - Improve error handling — iteration 31 (2015)
 - Add example — iteration 35 (2015)
 - Document usage — iteration 41 (2015)
+- Tweak implementation — iteration 42 (2015)
