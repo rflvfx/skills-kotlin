@@ -16,3 +16,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Tweak implementation — iteration 24 (2015)
 - Improve error handling — iteration 25 (2015)
 - Update docs — iteration 30 (2015)
+- Fix lint warnings — iteration 32 (2015)
