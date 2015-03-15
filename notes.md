@@ -10,3 +10,4 @@
 - Add tests — iteration 37 (2015)
 - Fix typo — iteration 45 (2015)
 - Minor cleanup — iteration 46 (2015)
+- Minor cleanup — iteration 58 (2015)
