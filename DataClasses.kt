@@ -4,3 +4,4 @@ sealed class Result {
     data class Success(val data: String) : Result()
     data class Error(val cause: Throwable) : Result()
 }
+- Add example — iteration 6 (2015)
