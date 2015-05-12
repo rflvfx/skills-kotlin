@@ -9,3 +9,4 @@
 - Tweak implementation — iteration 28 (2015)
 - Add tests — iteration 37 (2015)
 - Fix typo — iteration 45 (2015)
+- Minor cleanup — iteration 46 (2015)
