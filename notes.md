@@ -5,3 +5,4 @@
 - Improve naming — iteration 18 (2015)
 - Document usage — iteration 22 (2015)
 - Add feature — iteration 23 (2015)
+- Update docs — iteration 26 (2015)
