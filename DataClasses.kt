@@ -8,3 +8,4 @@ sealed class Result {
 - Fix edge case — iteration 10 (2015)
 - Add example — iteration 15 (2015)
 - Update dependencies — iteration 17 (2015)
+- Improve naming — iteration 33 (2015)
