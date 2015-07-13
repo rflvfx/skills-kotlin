@@ -18,3 +18,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Update docs — iteration 30 (2015)
 - Fix lint warnings — iteration 32 (2015)
 - Polish code — iteration 38 (2015)
+- Fix lint warnings — iteration 44 (2015)
