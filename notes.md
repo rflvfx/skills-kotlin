@@ -7,3 +7,4 @@
 - Add feature — iteration 23 (2015)
 - Update docs — iteration 26 (2015)
 - Tweak implementation — iteration 28 (2015)
+- Add tests — iteration 37 (2015)
