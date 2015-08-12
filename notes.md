@@ -1,2 +1,3 @@
 - Add feature — iteration 5 (2015)
 - Polish code — iteration 7 (2015)
+- Fix edge case — iteration 8 (2015)
