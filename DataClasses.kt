@@ -13,3 +13,4 @@ sealed class Result {
 - Improve error handling — iteration 36 (2015)
 - Update docs — iteration 39 (2015)
 - Polish code — iteration 40 (2015)
+- Minor cleanup — iteration 43 (2015)
