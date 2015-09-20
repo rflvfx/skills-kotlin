@@ -11,3 +11,4 @@ sealed class Result {
 - Improve naming — iteration 33 (2015)
 - Improve naming — iteration 34 (2015)
 - Improve error handling — iteration 36 (2015)
+- Update docs — iteration 39 (2015)
