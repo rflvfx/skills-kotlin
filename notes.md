@@ -6,3 +6,4 @@
 - Document usage — iteration 22 (2015)
 - Add feature — iteration 23 (2015)
 - Update docs — iteration 26 (2015)
+- Tweak implementation — iteration 28 (2015)
