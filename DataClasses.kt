@@ -14,3 +14,4 @@ sealed class Result {
 - Update docs — iteration 39 (2015)
 - Polish code — iteration 40 (2015)
 - Minor cleanup — iteration 43 (2015)
+- Fix edge case — iteration 49 (2015)
