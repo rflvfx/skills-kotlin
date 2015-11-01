@@ -13,3 +13,4 @@ fun main() {
 - Add example — iteration 35 (2015)
 - Document usage — iteration 41 (2015)
 - Tweak implementation — iteration 42 (2015)
+- Add validation — iteration 47 (2015)
