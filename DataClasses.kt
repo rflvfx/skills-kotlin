@@ -9,3 +9,4 @@ sealed class Result {
 - Add example — iteration 15 (2015)
 - Update dependencies — iteration 17 (2015)
 - Improve naming — iteration 33 (2015)
+- Improve naming — iteration 34 (2015)
