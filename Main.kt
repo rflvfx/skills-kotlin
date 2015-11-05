@@ -15,3 +15,4 @@ fun main() {
 - Tweak implementation — iteration 42 (2015)
 - Add validation — iteration 47 (2015)
 - Add helper — iteration 50 (2015)
+- Update dependencies — iteration 57 (2015)
