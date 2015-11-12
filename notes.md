@@ -8,3 +8,4 @@
 - Update docs — iteration 26 (2015)
 - Tweak implementation — iteration 28 (2015)
 - Add tests — iteration 37 (2015)
+- Fix typo — iteration 45 (2015)
