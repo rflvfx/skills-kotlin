@@ -11,3 +11,4 @@ fun main() {
 - Add helper — iteration 29 (2015)
 - Improve error handling — iteration 31 (2015)
 - Add example — iteration 35 (2015)
+- Document usage — iteration 41 (2015)
