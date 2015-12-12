@@ -5,3 +5,4 @@ sealed class Result {
     data class Error(val cause: Throwable) : Result()
 }
 - Add example — iteration 6 (2015)
+- Fix edge case — iteration 10 (2015)
