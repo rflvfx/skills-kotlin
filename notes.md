@@ -25,3 +25,4 @@
 - Update docs — iteration 46 (2016)
 - Optimize performance — iteration 58 (2016)
 - Tweak implementation — iteration 59 (2016)
+- Refactor module — iteration 60 (2016)
