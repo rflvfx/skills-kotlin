@@ -20,3 +20,4 @@ fun main() {
 - Add tests — iteration 3 (2016)
 - Tweak implementation — iteration 11 (2016)
 - Add tests — iteration 12 (2016)
+- Improve naming — iteration 13 (2016)
