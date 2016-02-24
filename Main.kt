@@ -23,3 +23,4 @@ fun main() {
 - Improve naming — iteration 13 (2016)
 - Add validation — iteration 14 (2016)
 - Improve naming — iteration 25 (2016)
+- Fix lint warnings — iteration 30 (2016)
