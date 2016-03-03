@@ -32,3 +32,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Update dependencies — iteration 27 (2016)
 - Update config — iteration 28 (2016)
 - Tweak implementation — iteration 29 (2016)
+- Tweak implementation — iteration 31 (2016)
