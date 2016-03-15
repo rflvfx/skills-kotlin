@@ -21,3 +21,4 @@
 - Add feature — iteration 19 (2016)
 - Update config — iteration 23 (2016)
 - Tweak implementation — iteration 41 (2016)
+- Update dependencies — iteration 42 (2016)
