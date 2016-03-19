@@ -25,3 +25,4 @@ fun main() {
 - Improve naming — iteration 25 (2016)
 - Fix lint warnings — iteration 30 (2016)
 - Update docs — iteration 36 (2016)
+- Optimize performance — iteration 37 (2016)
