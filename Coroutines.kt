@@ -38,3 +38,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Polish code — iteration 34 (2016)
 - Update dependencies — iteration 40 (2016)
 - Fix edge case — iteration 48 (2016)
+- Fix typo — iteration 49 (2016)
