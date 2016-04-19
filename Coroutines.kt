@@ -27,3 +27,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Fix typo — iteration 6 (2016)
 - Tweak implementation — iteration 10 (2016)
 - Add validation — iteration 15 (2016)
+- Add example — iteration 21 (2016)
