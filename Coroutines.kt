@@ -25,3 +25,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Add validation — iteration 56 (2015)
 - Refactor module — iteration 1 (2016)
 - Fix typo — iteration 6 (2016)
+- Tweak implementation — iteration 10 (2016)
