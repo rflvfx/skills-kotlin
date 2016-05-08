@@ -19,3 +19,4 @@ sealed class Result {
 - Fix edge case — iteration 54 (2015)
 - Add example — iteration 55 (2015)
 - Update docs — iteration 7 (2016)
+- Refactor module — iteration 8 (2016)
