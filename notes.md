@@ -18,3 +18,4 @@
 - Add validation — iteration 9 (2016)
 - Add feature — iteration 16 (2016)
 - Polish code — iteration 18 (2016)
+- Add feature — iteration 19 (2016)
