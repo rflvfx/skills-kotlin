@@ -23,3 +23,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Optimize performance — iteration 51 (2015)
 - Optimize performance — iteration 52 (2015)
 - Add validation — iteration 56 (2015)
+- Refactor module — iteration 1 (2016)
