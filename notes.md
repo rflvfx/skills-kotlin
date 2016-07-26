@@ -23,3 +23,4 @@
 - Tweak implementation — iteration 41 (2016)
 - Update dependencies — iteration 42 (2016)
 - Update docs — iteration 46 (2016)
+- Optimize performance — iteration 58 (2016)
