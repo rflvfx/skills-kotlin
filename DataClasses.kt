@@ -27,3 +27,4 @@ sealed class Result {
 - Update dependencies — iteration 35 (2016)
 - Add tests — iteration 39 (2016)
 - Fix edge case — iteration 44 (2016)
+- Add validation — iteration 45 (2016)
