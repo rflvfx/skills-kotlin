@@ -18,3 +18,4 @@ sealed class Result {
 - Add feature — iteration 53 (2015)
 - Fix edge case — iteration 54 (2015)
 - Add example — iteration 55 (2015)
+- Update docs — iteration 7 (2016)
