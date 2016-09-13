@@ -20,3 +20,4 @@ sealed class Result {
 - Add example — iteration 55 (2015)
 - Update docs — iteration 7 (2016)
 - Refactor module — iteration 8 (2016)
+- Document usage — iteration 17 (2016)
