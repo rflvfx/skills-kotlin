@@ -28,3 +28,4 @@ fun main() {
 - Optimize performance — iteration 37 (2016)
 - Optimize performance — iteration 38 (2016)
 - Improve naming — iteration 43 (2016)
+- Minor cleanup — iteration 47 (2016)
