@@ -26,3 +26,4 @@ sealed class Result {
 - Minor cleanup — iteration 26 (2016)
 - Update dependencies — iteration 35 (2016)
 - Add tests — iteration 39 (2016)
+- Fix edge case — iteration 44 (2016)
