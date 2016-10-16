@@ -13,3 +13,4 @@
 - Minor cleanup — iteration 58 (2015)
 - Refactor module — iteration 60 (2015)
 - Optimize performance — iteration 2 (2016)
+- Fix typo — iteration 4 (2016)
