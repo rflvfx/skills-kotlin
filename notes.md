@@ -14,3 +14,4 @@
 - Refactor module — iteration 60 (2015)
 - Optimize performance — iteration 2 (2016)
 - Fix typo — iteration 4 (2016)
+- Polish code — iteration 5 (2016)
