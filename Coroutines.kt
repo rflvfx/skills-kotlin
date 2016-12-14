@@ -40,3 +40,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Fix edge case — iteration 48 (2016)
 - Fix typo — iteration 49 (2016)
 - Fix typo — iteration 51 (2016)
+- Fix lint warnings — iteration 52 (2016)
