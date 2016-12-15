@@ -21,3 +21,4 @@ sealed class Result {
 - Update docs — iteration 7 (2016)
 - Refactor module — iteration 8 (2016)
 - Document usage — iteration 17 (2016)
+- Fix typo — iteration 20 (2016)
