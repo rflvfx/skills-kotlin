@@ -24,3 +24,4 @@ sealed class Result {
 - Fix typo — iteration 20 (2016)
 - Update docs — iteration 22 (2016)
 - Minor cleanup — iteration 26 (2016)
+- Update dependencies — iteration 35 (2016)
