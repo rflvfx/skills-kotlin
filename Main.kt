@@ -38,3 +38,4 @@ fun main() {
 - Fix edge case — iteration 25 (2017)
 - Document usage — iteration 28 (2017)
 - Refactor module — iteration 30 (2017)
+- Fix lint warnings — iteration 52 (2017)
