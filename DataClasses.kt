@@ -36,3 +36,4 @@ sealed class Result {
 - Refactor module — iteration 17 (2017)
 - Polish code — iteration 18 (2017)
 - Polish code — iteration 23 (2017)
+- Improve error handling — iteration 29 (2017)
