@@ -38,3 +38,4 @@ sealed class Result {
 - Polish code — iteration 23 (2017)
 - Improve error handling — iteration 29 (2017)
 - Update config — iteration 32 (2017)
+- Fix edge case — iteration 33 (2017)
