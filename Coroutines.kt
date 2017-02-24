@@ -55,3 +55,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Extend coverage — iteration 38 (2017)
 - Add validation — iteration 39 (2017)
 - Improve naming — iteration 41 (2017)
+- Update config — iteration 43 (2017)
