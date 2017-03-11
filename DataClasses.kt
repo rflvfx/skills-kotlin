@@ -44,3 +44,4 @@ sealed class Result {
 - Minor cleanup — iteration 48 (2017)
 - Add helper — iteration 49 (2017)
 - Tweak implementation — iteration 50 (2017)
+- Add helper — iteration 57 (2017)
