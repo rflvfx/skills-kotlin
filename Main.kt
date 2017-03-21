@@ -32,3 +32,4 @@ fun main() {
 - Optimize performance — iteration 50 (2016)
 - Fix typo — iteration 53 (2016)
 - Polish code — iteration 56 (2016)
+- Add validation — iteration 3 (2017)
