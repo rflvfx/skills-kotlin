@@ -37,3 +37,4 @@ sealed class Result {
 - Polish code — iteration 18 (2017)
 - Polish code — iteration 23 (2017)
 - Improve error handling — iteration 29 (2017)
+- Update config — iteration 32 (2017)
