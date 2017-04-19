@@ -42,3 +42,4 @@
 - Refactor module — iteration 42 (2017)
 - Document usage — iteration 46 (2017)
 - Polish code — iteration 47 (2017)
+- Extend coverage — iteration 51 (2017)
