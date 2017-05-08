@@ -37,3 +37,4 @@ fun main() {
 - Optimize performance — iteration 16 (2017)
 - Fix edge case — iteration 25 (2017)
 - Document usage — iteration 28 (2017)
+- Refactor module — iteration 30 (2017)
