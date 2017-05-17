@@ -36,3 +36,4 @@
 - Add helper — iteration 27 (2017)
 - Update docs — iteration 31 (2017)
 - Fix typo — iteration 34 (2017)
+- Document usage — iteration 35 (2017)
