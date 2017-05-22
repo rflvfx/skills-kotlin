@@ -28,3 +28,4 @@
 - Refactor module — iteration 60 (2016)
 - Add feature — iteration 1 (2017)
 - Add helper — iteration 4 (2017)
+- Add example — iteration 7 (2017)
