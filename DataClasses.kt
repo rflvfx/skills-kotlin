@@ -29,3 +29,4 @@ sealed class Result {
 - Fix edge case — iteration 44 (2016)
 - Add validation — iteration 45 (2016)
 - Fix edge case — iteration 2 (2017)
+- Update docs — iteration 8 (2017)
