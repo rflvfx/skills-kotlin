@@ -29,3 +29,4 @@
 - Add feature — iteration 1 (2017)
 - Add helper — iteration 4 (2017)
 - Add example — iteration 7 (2017)
+- Update dependencies — iteration 9 (2017)
