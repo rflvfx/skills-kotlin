@@ -40,3 +40,4 @@ sealed class Result {
 - Update config — iteration 32 (2017)
 - Fix edge case — iteration 33 (2017)
 - Add validation — iteration 44 (2017)
+- Document usage — iteration 45 (2017)
