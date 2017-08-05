@@ -33,3 +33,4 @@ sealed class Result {
 - Extend coverage — iteration 10 (2017)
 - Fix edge case — iteration 12 (2017)
 - Update dependencies — iteration 15 (2017)
+- Refactor module — iteration 17 (2017)
