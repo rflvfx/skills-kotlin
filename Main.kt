@@ -33,3 +33,4 @@ fun main() {
 - Fix typo — iteration 53 (2016)
 - Polish code — iteration 56 (2016)
 - Add validation — iteration 3 (2017)
+- Optimize performance — iteration 14 (2017)
