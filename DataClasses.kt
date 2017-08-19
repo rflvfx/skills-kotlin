@@ -30,3 +30,4 @@ sealed class Result {
 - Add validation — iteration 45 (2016)
 - Fix edge case — iteration 2 (2017)
 - Update docs — iteration 8 (2017)
+- Extend coverage — iteration 10 (2017)
