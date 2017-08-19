@@ -31,3 +31,4 @@
 - Add example — iteration 7 (2017)
 - Update dependencies — iteration 9 (2017)
 - Add helper — iteration 13 (2017)
+- Document usage — iteration 20 (2017)
