@@ -47,3 +47,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Fix lint warnings — iteration 5 (2017)
 - Refactor module — iteration 6 (2017)
 - Improve error handling — iteration 11 (2017)
+- Add tests — iteration 19 (2017)
