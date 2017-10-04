@@ -27,3 +27,4 @@
 - Tweak implementation — iteration 59 (2016)
 - Refactor module — iteration 60 (2016)
 - Add feature — iteration 1 (2017)
+- Add helper — iteration 4 (2017)
