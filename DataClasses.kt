@@ -43,3 +43,4 @@ sealed class Result {
 - Document usage — iteration 45 (2017)
 - Minor cleanup — iteration 48 (2017)
 - Add helper — iteration 49 (2017)
+- Tweak implementation — iteration 50 (2017)
