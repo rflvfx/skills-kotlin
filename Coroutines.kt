@@ -46,3 +46,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Document usage — iteration 57 (2016)
 - Fix lint warnings — iteration 5 (2017)
 - Refactor module — iteration 6 (2017)
+- Improve error handling — iteration 11 (2017)
