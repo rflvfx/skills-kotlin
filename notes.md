@@ -37,3 +37,4 @@
 - Update docs — iteration 31 (2017)
 - Fix typo — iteration 34 (2017)
 - Document usage — iteration 35 (2017)
+- Improve error handling — iteration 37 (2017)
