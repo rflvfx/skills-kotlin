@@ -39,3 +39,4 @@ sealed class Result {
 - Improve error handling — iteration 29 (2017)
 - Update config — iteration 32 (2017)
 - Fix edge case — iteration 33 (2017)
+- Add validation — iteration 44 (2017)
