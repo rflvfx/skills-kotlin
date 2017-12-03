@@ -41,3 +41,4 @@ sealed class Result {
 - Fix edge case — iteration 33 (2017)
 - Add validation — iteration 44 (2017)
 - Document usage — iteration 45 (2017)
+- Minor cleanup — iteration 48 (2017)
