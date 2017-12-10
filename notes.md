@@ -39,3 +39,4 @@
 - Document usage — iteration 35 (2017)
 - Improve error handling — iteration 37 (2017)
 - Optimize performance — iteration 40 (2017)
+- Refactor module — iteration 42 (2017)
