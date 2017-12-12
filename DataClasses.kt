@@ -32,3 +32,4 @@ sealed class Result {
 - Update docs — iteration 8 (2017)
 - Extend coverage — iteration 10 (2017)
 - Fix edge case — iteration 12 (2017)
+- Update dependencies — iteration 15 (2017)
