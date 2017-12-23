@@ -34,3 +34,4 @@ sealed class Result {
 - Fix edge case — iteration 12 (2017)
 - Update dependencies — iteration 15 (2017)
 - Refactor module — iteration 17 (2017)
+- Polish code — iteration 18 (2017)
