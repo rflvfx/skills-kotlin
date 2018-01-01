@@ -44,3 +44,4 @@ fun main() {
 - Fix edge case — iteration 2 (2018)
 - Tweak implementation — iteration 8 (2018)
 - Tweak implementation — iteration 11 (2018)
+- Update config — iteration 14 (2018)
