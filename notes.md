@@ -47,3 +47,4 @@
 - Tweak implementation — iteration 59 (2017)
 - Tweak implementation — iteration 1 (2018)
 - Fix lint warnings — iteration 3 (2018)
+- Fix typo — iteration 5 (2018)
