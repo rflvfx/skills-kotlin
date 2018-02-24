@@ -66,3 +66,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Add feature — iteration 27 (2018)
 - Improve error handling — iteration 29 (2018)
 - Minor cleanup — iteration 31 (2018)
+- Polish code — iteration 32 (2018)
