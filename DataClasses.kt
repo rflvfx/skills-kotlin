@@ -51,3 +51,4 @@ sealed class Result {
 - Update docs — iteration 25 (2018)
 - Tweak implementation — iteration 30 (2018)
 - Document usage — iteration 33 (2018)
+- Add tests — iteration 36 (2018)
