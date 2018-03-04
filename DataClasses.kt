@@ -57,3 +57,4 @@ sealed class Result {
 - Add feature — iteration 47 (2018)
 - Fix edge case — iteration 50 (2018)
 - Tweak implementation — iteration 51 (2018)
+- Fix typo — iteration 56 (2018)
