@@ -70,3 +70,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Update docs — iteration 34 (2018)
 - Update dependencies — iteration 39 (2018)
 - Fix typo — iteration 41 (2018)
+- Document usage — iteration 43 (2018)
