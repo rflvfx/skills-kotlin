@@ -48,3 +48,4 @@
 - Tweak implementation — iteration 1 (2018)
 - Fix lint warnings — iteration 3 (2018)
 - Fix typo — iteration 5 (2018)
+- Add validation — iteration 7 (2018)
