@@ -45,3 +45,4 @@ sealed class Result {
 - Add helper — iteration 49 (2017)
 - Tweak implementation — iteration 50 (2017)
 - Add helper — iteration 57 (2017)
+- Fix edge case — iteration 12 (2018)
