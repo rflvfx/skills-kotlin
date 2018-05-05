@@ -59,3 +59,4 @@ sealed class Result {
 - Tweak implementation — iteration 51 (2018)
 - Fix typo — iteration 56 (2018)
 - Polish code — iteration 57 (2018)
+- Improve error handling — iteration 58 (2018)
