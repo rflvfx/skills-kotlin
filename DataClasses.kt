@@ -48,3 +48,4 @@ sealed class Result {
 - Fix edge case — iteration 12 (2018)
 - Add feature — iteration 15 (2018)
 - Refactor module — iteration 24 (2018)
+- Update docs — iteration 25 (2018)
