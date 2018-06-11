@@ -73,3 +73,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Document usage — iteration 43 (2018)
 - Fix lint warnings — iteration 44 (2018)
 - Fix lint warnings — iteration 48 (2018)
+- Fix edge case — iteration 49 (2018)
