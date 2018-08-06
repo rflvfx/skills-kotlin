@@ -58,3 +58,4 @@ sealed class Result {
 - Fix edge case — iteration 50 (2018)
 - Tweak implementation — iteration 51 (2018)
 - Fix typo — iteration 56 (2018)
+- Polish code — iteration 57 (2018)
