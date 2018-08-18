@@ -50,3 +50,4 @@
 - Fix typo — iteration 5 (2018)
 - Add validation — iteration 7 (2018)
 - Tweak implementation — iteration 9 (2018)
+- Add validation — iteration 13 (2018)
