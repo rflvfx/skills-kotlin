@@ -54,3 +54,4 @@
 - Fix edge case — iteration 16 (2018)
 - Minor cleanup — iteration 17 (2018)
 - Add feature — iteration 21 (2018)
+- Improve naming — iteration 23 (2018)
