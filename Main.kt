@@ -48,3 +48,4 @@ fun main() {
 - Tweak implementation — iteration 19 (2018)
 - Update docs — iteration 20 (2018)
 - Optimize performance — iteration 22 (2018)
+- Improve naming — iteration 26 (2018)
