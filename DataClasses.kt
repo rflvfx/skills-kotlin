@@ -54,3 +54,4 @@ sealed class Result {
 - Add tests — iteration 36 (2018)
 - Improve naming — iteration 40 (2018)
 - Improve naming — iteration 46 (2018)
+- Add feature — iteration 47 (2018)
