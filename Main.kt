@@ -49,3 +49,4 @@ fun main() {
 - Update docs — iteration 20 (2018)
 - Optimize performance — iteration 22 (2018)
 - Improve naming — iteration 26 (2018)
+- Optimize performance — iteration 35 (2018)
