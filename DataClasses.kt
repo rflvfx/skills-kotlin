@@ -53,3 +53,4 @@ sealed class Result {
 - Document usage — iteration 33 (2018)
 - Add tests — iteration 36 (2018)
 - Improve naming — iteration 40 (2018)
+- Improve naming — iteration 46 (2018)
