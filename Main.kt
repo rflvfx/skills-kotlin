@@ -51,3 +51,4 @@ fun main() {
 - Improve naming — iteration 26 (2018)
 - Optimize performance — iteration 35 (2018)
 - Add example — iteration 37 (2018)
+- Document usage — iteration 38 (2018)
