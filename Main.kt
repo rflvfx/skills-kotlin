@@ -52,3 +52,4 @@ fun main() {
 - Optimize performance — iteration 35 (2018)
 - Add example — iteration 37 (2018)
 - Document usage — iteration 38 (2018)
+- Improve error handling — iteration 55 (2018)
