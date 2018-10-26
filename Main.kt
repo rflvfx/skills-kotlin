@@ -53,3 +53,4 @@ fun main() {
 - Add example — iteration 37 (2018)
 - Document usage — iteration 38 (2018)
 - Improve error handling — iteration 55 (2018)
+- Tweak implementation — iteration 60 (2018)
