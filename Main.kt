@@ -42,3 +42,4 @@ fun main() {
 - Add feature — iteration 53 (2017)
 - Improve naming — iteration 58 (2017)
 - Fix edge case — iteration 2 (2018)
+- Tweak implementation — iteration 8 (2018)
