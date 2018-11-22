@@ -41,3 +41,4 @@ fun main() {
 - Fix lint warnings — iteration 52 (2017)
 - Add feature — iteration 53 (2017)
 - Improve naming — iteration 58 (2017)
+- Fix edge case — iteration 2 (2018)
