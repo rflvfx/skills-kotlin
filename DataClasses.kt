@@ -50,3 +50,4 @@ sealed class Result {
 - Refactor module — iteration 24 (2018)
 - Update docs — iteration 25 (2018)
 - Tweak implementation — iteration 30 (2018)
+- Document usage — iteration 33 (2018)
