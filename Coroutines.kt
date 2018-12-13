@@ -72,3 +72,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Fix typo — iteration 41 (2018)
 - Document usage — iteration 43 (2018)
 - Fix lint warnings — iteration 44 (2018)
+- Fix lint warnings — iteration 48 (2018)
