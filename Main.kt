@@ -47,3 +47,4 @@ fun main() {
 - Update config — iteration 14 (2018)
 - Tweak implementation — iteration 19 (2018)
 - Update docs — iteration 20 (2018)
+- Optimize performance — iteration 22 (2018)
