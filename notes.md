@@ -45,3 +45,4 @@
 - Extend coverage — iteration 51 (2017)
 - Update dependencies — iteration 54 (2017)
 - Tweak implementation — iteration 59 (2017)
+- Tweak implementation — iteration 1 (2018)
