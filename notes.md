@@ -60,3 +60,4 @@
 - Add helper — iteration 45 (2018)
 - Optimize performance — iteration 53 (2018)
 - Add example — iteration 54 (2018)
+- Optimize performance — iteration 1 (2019)
