@@ -69,3 +69,4 @@
 - Add validation — iteration 33 (2019)
 - Add helper — iteration 40 (2019)
 - Add example — iteration 44 (2019)
+- Improve naming — iteration 54 (2019)
