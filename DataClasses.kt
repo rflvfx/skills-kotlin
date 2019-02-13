@@ -78,3 +78,4 @@ sealed class Result {
 - Extend coverage — iteration 45 (2019)
 - Polish code — iteration 48 (2019)
 - Add validation — iteration 49 (2019)
+- Improve naming — iteration 50 (2019)
