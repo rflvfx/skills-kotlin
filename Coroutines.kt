@@ -84,3 +84,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Document usage — iteration 31 (2019)
 - Add validation — iteration 36 (2019)
 - Optimize performance — iteration 38 (2019)
+- Refactor module — iteration 42 (2019)
