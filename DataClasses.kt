@@ -70,3 +70,4 @@ sealed class Result {
 - Fix typo — iteration 22 (2019)
 - Improve error handling — iteration 27 (2019)
 - Update docs — iteration 29 (2019)
+- Refactor module — iteration 30 (2019)
