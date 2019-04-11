@@ -67,3 +67,4 @@
 - Update dependencies — iteration 13 (2019)
 - Improve error handling — iteration 28 (2019)
 - Add validation — iteration 33 (2019)
+- Add helper — iteration 40 (2019)
