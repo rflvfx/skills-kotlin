@@ -56,3 +56,4 @@ fun main() {
 - Tweak implementation — iteration 60 (2018)
 - Tweak implementation — iteration 2 (2019)
 - Polish code — iteration 4 (2019)
+- Improve error handling — iteration 9 (2019)
