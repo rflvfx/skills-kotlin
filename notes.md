@@ -66,3 +66,4 @@
 - Improve naming — iteration 11 (2019)
 - Update dependencies — iteration 13 (2019)
 - Improve error handling — iteration 28 (2019)
+- Add validation — iteration 33 (2019)
