@@ -72,3 +72,4 @@ sealed class Result {
 - Update docs — iteration 29 (2019)
 - Refactor module — iteration 30 (2019)
 - Minor cleanup — iteration 32 (2019)
+- Polish code — iteration 37 (2019)
