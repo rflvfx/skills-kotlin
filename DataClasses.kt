@@ -74,3 +74,4 @@ sealed class Result {
 - Minor cleanup — iteration 32 (2019)
 - Polish code — iteration 37 (2019)
 - Fix typo — iteration 41 (2019)
+- Document usage — iteration 43 (2019)
