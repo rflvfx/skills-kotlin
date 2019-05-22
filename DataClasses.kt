@@ -82,3 +82,4 @@ sealed class Result {
 - Update config — iteration 51 (2019)
 - Update dependencies — iteration 53 (2019)
 - Add tests — iteration 59 (2019)
+- Add example — iteration 60 (2019)
