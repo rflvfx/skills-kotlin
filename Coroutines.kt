@@ -77,3 +77,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Update config — iteration 52 (2018)
 - Add tests — iteration 59 (2018)
 - Fix edge case — iteration 17 (2019)
+- Polish code — iteration 18 (2019)
