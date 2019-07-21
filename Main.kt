@@ -59,3 +59,4 @@ fun main() {
 - Improve error handling — iteration 9 (2019)
 - Polish code — iteration 10 (2019)
 - Minor cleanup — iteration 14 (2019)
+- Add validation — iteration 20 (2019)
