@@ -77,3 +77,4 @@ sealed class Result {
 - Document usage — iteration 43 (2019)
 - Extend coverage — iteration 45 (2019)
 - Polish code — iteration 48 (2019)
+- Add validation — iteration 49 (2019)
