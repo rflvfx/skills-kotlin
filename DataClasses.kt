@@ -81,3 +81,4 @@ sealed class Result {
 - Improve naming — iteration 50 (2019)
 - Update config — iteration 51 (2019)
 - Update dependencies — iteration 53 (2019)
+- Add tests — iteration 59 (2019)
