@@ -67,3 +67,4 @@ sealed class Result {
 - Refactor module — iteration 15 (2019)
 - Polish code — iteration 16 (2019)
 - Tweak implementation — iteration 19 (2019)
+- Fix typo — iteration 22 (2019)
