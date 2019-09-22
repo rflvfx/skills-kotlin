@@ -75,3 +75,4 @@ sealed class Result {
 - Polish code — iteration 37 (2019)
 - Fix typo — iteration 41 (2019)
 - Document usage — iteration 43 (2019)
+- Extend coverage — iteration 45 (2019)
