@@ -63,3 +63,4 @@
 - Optimize performance — iteration 1 (2019)
 - Refactor module — iteration 5 (2019)
 - Add example — iteration 8 (2019)
+- Improve naming — iteration 11 (2019)
