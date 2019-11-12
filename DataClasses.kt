@@ -76,3 +76,4 @@ sealed class Result {
 - Fix typo — iteration 41 (2019)
 - Document usage — iteration 43 (2019)
 - Extend coverage — iteration 45 (2019)
+- Polish code — iteration 48 (2019)
