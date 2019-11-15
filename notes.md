@@ -62,3 +62,4 @@
 - Add example — iteration 54 (2018)
 - Optimize performance — iteration 1 (2019)
 - Refactor module — iteration 5 (2019)
+- Add example — iteration 8 (2019)
