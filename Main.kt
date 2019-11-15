@@ -69,3 +69,4 @@ fun main() {
 - Refactor module — iteration 52 (2019)
 - Add validation — iteration 56 (2019)
 - Add example — iteration 57 (2019)
+- Fix typo — iteration 58 (2019)
