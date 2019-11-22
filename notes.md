@@ -64,3 +64,4 @@
 - Refactor module — iteration 5 (2019)
 - Add example — iteration 8 (2019)
 - Improve naming — iteration 11 (2019)
+- Update dependencies — iteration 13 (2019)
