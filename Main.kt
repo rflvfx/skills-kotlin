@@ -54,3 +54,4 @@ fun main() {
 - Document usage — iteration 38 (2018)
 - Improve error handling — iteration 55 (2018)
 - Tweak implementation — iteration 60 (2018)
+- Tweak implementation — iteration 2 (2019)
