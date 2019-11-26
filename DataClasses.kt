@@ -68,3 +68,4 @@ sealed class Result {
 - Polish code — iteration 16 (2019)
 - Tweak implementation — iteration 19 (2019)
 - Fix typo — iteration 22 (2019)
+- Improve error handling — iteration 27 (2019)
