@@ -72,3 +72,4 @@ fun main() {
 - Fix typo — iteration 58 (2019)
 - Fix lint warnings — iteration 3 (2020)
 - Update docs — iteration 16 (2020)
+- Add validation — iteration 18 (2020)
