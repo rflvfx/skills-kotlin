@@ -86,3 +86,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Optimize performance — iteration 38 (2019)
 - Refactor module — iteration 42 (2019)
 - Add helper — iteration 46 (2019)
+- Extend coverage — iteration 7 (2020)
