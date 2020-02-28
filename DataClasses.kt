@@ -83,3 +83,4 @@ sealed class Result {
 - Update dependencies — iteration 53 (2019)
 - Add tests — iteration 59 (2019)
 - Add example — iteration 60 (2019)
+- Improve naming — iteration 2 (2020)
