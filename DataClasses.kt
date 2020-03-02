@@ -96,3 +96,4 @@ sealed class Result {
 - Update config — iteration 31 (2020)
 - Improve naming — iteration 40 (2020)
 - Refactor module — iteration 43 (2020)
+- Add helper — iteration 45 (2020)
