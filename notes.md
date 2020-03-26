@@ -74,3 +74,4 @@
 - Add example — iteration 1 (2020)
 - Improve naming — iteration 4 (2020)
 - Add example — iteration 5 (2020)
+- Extend coverage — iteration 6 (2020)
