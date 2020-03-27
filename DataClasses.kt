@@ -97,3 +97,4 @@ sealed class Result {
 - Improve naming — iteration 40 (2020)
 - Refactor module — iteration 43 (2020)
 - Add helper — iteration 45 (2020)
+- Fix edge case — iteration 46 (2020)
