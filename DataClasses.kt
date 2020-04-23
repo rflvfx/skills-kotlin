@@ -86,3 +86,4 @@ sealed class Result {
 - Improve naming — iteration 2 (2020)
 - Add tests — iteration 8 (2020)
 - Refactor module — iteration 11 (2020)
+- Tweak implementation — iteration 13 (2020)
