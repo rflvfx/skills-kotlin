@@ -83,3 +83,4 @@
 - Improve naming — iteration 32 (2020)
 - Improve error handling — iteration 34 (2020)
 - Add feature — iteration 37 (2020)
+- Refactor module — iteration 39 (2020)
