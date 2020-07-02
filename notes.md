@@ -80,3 +80,4 @@
 - Add helper — iteration 23 (2020)
 - Optimize performance — iteration 28 (2020)
 - Update config — iteration 30 (2020)
+- Improve naming — iteration 32 (2020)
