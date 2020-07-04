@@ -79,3 +79,4 @@ fun main() {
 - Extend coverage — iteration 35 (2020)
 - Add tests — iteration 36 (2020)
 - Add example — iteration 41 (2020)
+- Update docs — iteration 53 (2020)
