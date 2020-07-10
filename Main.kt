@@ -71,3 +71,4 @@ fun main() {
 - Add example — iteration 57 (2019)
 - Fix typo — iteration 58 (2019)
 - Fix lint warnings — iteration 3 (2020)
+- Update docs — iteration 16 (2020)
