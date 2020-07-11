@@ -100,3 +100,4 @@ sealed class Result {
 - Fix edge case — iteration 46 (2020)
 - Fix typo — iteration 47 (2020)
 - Fix typo — iteration 52 (2020)
+- Update docs — iteration 59 (2020)
