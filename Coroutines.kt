@@ -93,3 +93,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Add helper — iteration 24 (2020)
 - Extend coverage — iteration 33 (2020)
 - Fix typo — iteration 38 (2020)
+- Fix lint warnings — iteration 48 (2020)
