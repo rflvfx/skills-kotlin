@@ -89,3 +89,4 @@ sealed class Result {
 - Tweak implementation — iteration 13 (2020)
 - Improve error handling — iteration 14 (2020)
 - Improve naming — iteration 17 (2020)
+- Document usage — iteration 20 (2020)
