@@ -81,3 +81,4 @@ fun main() {
 - Add example — iteration 41 (2020)
 - Update docs — iteration 53 (2020)
 - Add feature — iteration 54 (2020)
+- Fix lint warnings — iteration 57 (2020)
