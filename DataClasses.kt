@@ -93,3 +93,4 @@ sealed class Result {
 - Add example — iteration 26 (2020)
 - Improve error handling — iteration 27 (2020)
 - Update config — iteration 29 (2020)
+- Update config — iteration 31 (2020)
