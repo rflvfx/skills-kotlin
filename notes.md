@@ -76,3 +76,4 @@
 - Add example — iteration 5 (2020)
 - Extend coverage — iteration 6 (2020)
 - Add feature — iteration 12 (2020)
+- Fix edge case — iteration 19 (2020)
