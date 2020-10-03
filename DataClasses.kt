@@ -90,3 +90,4 @@ sealed class Result {
 - Improve error handling — iteration 14 (2020)
 - Improve naming — iteration 17 (2020)
 - Document usage — iteration 20 (2020)
+- Add example — iteration 26 (2020)
