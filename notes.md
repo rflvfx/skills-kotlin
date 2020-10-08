@@ -78,3 +78,4 @@
 - Add feature — iteration 12 (2020)
 - Fix edge case — iteration 19 (2020)
 - Add helper — iteration 23 (2020)
+- Optimize performance — iteration 28 (2020)
