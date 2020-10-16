@@ -74,3 +74,4 @@ fun main() {
 - Update docs — iteration 16 (2020)
 - Add validation — iteration 18 (2020)
 - Add tests — iteration 21 (2020)
+- Optimize performance — iteration 22 (2020)
