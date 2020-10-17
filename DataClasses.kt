@@ -92,3 +92,4 @@ sealed class Result {
 - Document usage — iteration 20 (2020)
 - Add example — iteration 26 (2020)
 - Improve error handling — iteration 27 (2020)
+- Update config — iteration 29 (2020)
