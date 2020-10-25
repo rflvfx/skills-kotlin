@@ -90,3 +90,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Improve naming — iteration 9 (2020)
 - Add example — iteration 10 (2020)
 - Minor cleanup — iteration 15 (2020)
+- Add helper — iteration 24 (2020)
