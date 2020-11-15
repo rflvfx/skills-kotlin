@@ -77,3 +77,4 @@ fun main() {
 - Optimize performance — iteration 22 (2020)
 - Add validation — iteration 25 (2020)
 - Extend coverage — iteration 35 (2020)
+- Add tests — iteration 36 (2020)
