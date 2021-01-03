@@ -102,3 +102,4 @@
 - Add tests — iteration 36 (2021)
 - Tweak implementation — iteration 40 (2021)
 - Fix lint warnings — iteration 46 (2021)
+- Improve error handling — iteration 50 (2021)
