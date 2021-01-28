@@ -111,3 +111,4 @@ sealed class Result {
 - Improve naming — iteration 31 (2021)
 - Add feature — iteration 33 (2021)
 - Update config — iteration 56 (2021)
+- Improve error handling — iteration 59 (2021)
