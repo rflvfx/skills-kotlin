@@ -109,3 +109,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Fix typo — iteration 39 (2021)
 - Extend coverage — iteration 41 (2021)
 - Document usage — iteration 43 (2021)
+- Minor cleanup — iteration 44 (2021)
