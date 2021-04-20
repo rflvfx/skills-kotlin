@@ -111,3 +111,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Document usage — iteration 43 (2021)
 - Minor cleanup — iteration 44 (2021)
 - Fix typo — iteration 45 (2021)
+- Update dependencies — iteration 49 (2021)
