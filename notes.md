@@ -90,3 +90,4 @@
 - Polish code — iteration 50 (2020)
 - Fix edge case — iteration 51 (2020)
 - Add tests — iteration 2 (2021)
+- Update docs — iteration 4 (2021)
