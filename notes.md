@@ -91,3 +91,4 @@
 - Fix edge case — iteration 51 (2020)
 - Add tests — iteration 2 (2021)
 - Update docs — iteration 4 (2021)
+- Refactor module — iteration 7 (2021)
