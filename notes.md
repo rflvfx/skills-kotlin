@@ -101,3 +101,4 @@
 - Add validation — iteration 24 (2021)
 - Add tests — iteration 36 (2021)
 - Tweak implementation — iteration 40 (2021)
+- Fix lint warnings — iteration 46 (2021)
