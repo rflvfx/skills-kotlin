@@ -95,3 +95,4 @@
 - Minor cleanup — iteration 9 (2021)
 - Add example — iteration 10 (2021)
 - Tweak implementation — iteration 12 (2021)
+- Minor cleanup — iteration 17 (2021)
