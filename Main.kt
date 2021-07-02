@@ -93,3 +93,4 @@ fun main() {
 - Update config — iteration 30 (2021)
 - Minor cleanup — iteration 34 (2021)
 - Update docs — iteration 42 (2021)
+- Improve error handling — iteration 47 (2021)
