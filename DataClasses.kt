@@ -105,3 +105,4 @@ sealed class Result {
 - Update config — iteration 6 (2021)
 - Polish code — iteration 13 (2021)
 - Fix edge case — iteration 16 (2021)
+- Update config — iteration 20 (2021)
