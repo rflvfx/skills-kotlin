@@ -96,3 +96,4 @@ fun main() {
 - Improve error handling — iteration 47 (2021)
 - Update config — iteration 48 (2021)
 - Add feature — iteration 54 (2021)
+- Update docs — iteration 57 (2021)
