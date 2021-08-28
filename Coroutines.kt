@@ -97,3 +97,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Polish code — iteration 55 (2020)
 - Fix typo — iteration 56 (2020)
 - Fix edge case — iteration 5 (2021)
+- Update config — iteration 11 (2021)
