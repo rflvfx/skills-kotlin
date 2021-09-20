@@ -103,3 +103,4 @@ sealed class Result {
 - Update docs — iteration 59 (2020)
 - Update docs — iteration 60 (2020)
 - Update config — iteration 6 (2021)
+- Polish code — iteration 13 (2021)
