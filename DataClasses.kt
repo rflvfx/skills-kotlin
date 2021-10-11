@@ -102,3 +102,4 @@ sealed class Result {
 - Fix typo — iteration 52 (2020)
 - Update docs — iteration 59 (2020)
 - Update docs — iteration 60 (2020)
+- Update config — iteration 6 (2021)
