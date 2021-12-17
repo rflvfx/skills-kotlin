@@ -83,3 +83,4 @@ fun main() {
 - Add feature — iteration 54 (2020)
 - Fix lint warnings — iteration 57 (2020)
 - Update config — iteration 58 (2020)
+- Optimize performance — iteration 1 (2021)
