@@ -122,3 +122,4 @@ sealed class Result {
 - Improve error handling — iteration 24 (2022)
 - Add feature — iteration 28 (2022)
 - Document usage — iteration 36 (2022)
+- Tweak implementation — iteration 38 (2022)
