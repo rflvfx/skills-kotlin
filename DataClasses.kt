@@ -128,3 +128,4 @@ sealed class Result {
 - Improve naming — iteration 49 (2022)
 - Update docs — iteration 53 (2022)
 - Fix typo — iteration 55 (2022)
+- Add feature — iteration 58 (2022)
