@@ -105,3 +105,4 @@
 - Improve error handling — iteration 50 (2021)
 - Improve error handling — iteration 52 (2021)
 - Tweak implementation — iteration 53 (2021)
+- Refactor module — iteration 2 (2022)
