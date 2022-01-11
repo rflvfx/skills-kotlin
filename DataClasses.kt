@@ -119,3 +119,4 @@ sealed class Result {
 - Update dependencies — iteration 15 (2022)
 - Add helper — iteration 16 (2022)
 - Add tests — iteration 23 (2022)
+- Improve error handling — iteration 24 (2022)
