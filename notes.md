@@ -110,3 +110,4 @@
 - Refactor module — iteration 8 (2022)
 - Add example — iteration 10 (2022)
 - Add validation — iteration 12 (2022)
+- Improve naming — iteration 13 (2022)
