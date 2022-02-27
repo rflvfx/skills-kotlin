@@ -117,3 +117,4 @@ sealed class Result {
 - Polish code — iteration 11 (2022)
 - Fix lint warnings — iteration 14 (2022)
 - Update dependencies — iteration 15 (2022)
+- Add helper — iteration 16 (2022)
