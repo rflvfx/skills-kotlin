@@ -125,3 +125,4 @@ sealed class Result {
 - Tweak implementation — iteration 38 (2022)
 - Tweak implementation — iteration 40 (2022)
 - Update dependencies — iteration 42 (2022)
+- Improve naming — iteration 49 (2022)
