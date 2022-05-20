@@ -121,3 +121,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Refactor module — iteration 20 (2022)
 - Update dependencies — iteration 22 (2022)
 - Extend coverage — iteration 25 (2022)
+- Document usage — iteration 31 (2022)
