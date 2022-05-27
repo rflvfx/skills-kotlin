@@ -121,3 +121,4 @@ sealed class Result {
 - Add tests — iteration 23 (2022)
 - Improve error handling — iteration 24 (2022)
 - Add feature — iteration 28 (2022)
+- Document usage — iteration 36 (2022)
