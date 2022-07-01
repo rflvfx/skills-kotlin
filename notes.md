@@ -113,3 +113,4 @@
 - Improve naming — iteration 13 (2022)
 - Add example — iteration 30 (2022)
 - Update dependencies — iteration 39 (2022)
+- Update docs — iteration 44 (2022)
