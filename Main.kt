@@ -100,3 +100,4 @@ fun main() {
 - Add tests — iteration 4 (2022)
 - Fix lint warnings — iteration 5 (2022)
 - Update config — iteration 17 (2022)
+- Improve naming — iteration 18 (2022)
