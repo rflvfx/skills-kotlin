@@ -122,3 +122,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Update dependencies — iteration 22 (2022)
 - Extend coverage — iteration 25 (2022)
 - Document usage — iteration 31 (2022)
+- Minor cleanup — iteration 33 (2022)
