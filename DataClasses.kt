@@ -124,3 +124,4 @@ sealed class Result {
 - Document usage — iteration 36 (2022)
 - Tweak implementation — iteration 38 (2022)
 - Tweak implementation — iteration 40 (2022)
+- Update dependencies — iteration 42 (2022)
