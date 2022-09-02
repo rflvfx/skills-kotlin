@@ -114,3 +114,4 @@ sealed class Result {
 - Improve error handling — iteration 59 (2021)
 - Document usage — iteration 3 (2022)
 - Optimize performance — iteration 7 (2022)
+- Polish code — iteration 11 (2022)
