@@ -108,3 +108,4 @@ fun main() {
 - Tweak implementation — iteration 32 (2022)
 - Update dependencies — iteration 34 (2022)
 - Fix typo — iteration 35 (2022)
+- Update config — iteration 37 (2022)
