@@ -113,3 +113,4 @@ sealed class Result {
 - Update config — iteration 56 (2021)
 - Improve error handling — iteration 59 (2021)
 - Document usage — iteration 3 (2022)
+- Optimize performance — iteration 7 (2022)
