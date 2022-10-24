@@ -127,3 +127,4 @@ sealed class Result {
 - Update dependencies — iteration 42 (2022)
 - Improve naming — iteration 49 (2022)
 - Update docs — iteration 53 (2022)
+- Fix typo — iteration 55 (2022)
