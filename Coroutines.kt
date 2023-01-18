@@ -133,3 +133,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Add helper — iteration 20 (2023)
 - Optimize performance — iteration 22 (2023)
 - Optimize performance — iteration 23 (2023)
+- Minor cleanup — iteration 25 (2023)
