@@ -136,3 +136,4 @@ sealed class Result {
 - Improve naming — iteration 6 (2023)
 - Add example — iteration 12 (2023)
 - Document usage — iteration 14 (2023)
+- Add tests — iteration 24 (2023)
