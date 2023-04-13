@@ -135,3 +135,4 @@ sealed class Result {
 - Refactor module — iteration 4 (2023)
 - Improve naming — iteration 6 (2023)
 - Add example — iteration 12 (2023)
+- Document usage — iteration 14 (2023)
