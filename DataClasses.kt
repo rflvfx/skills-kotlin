@@ -131,3 +131,4 @@ sealed class Result {
 - Add feature — iteration 58 (2022)
 - Tweak implementation — iteration 59 (2022)
 - Update config — iteration 60 (2022)
+- Extend coverage — iteration 2 (2023)
