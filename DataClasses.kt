@@ -139,3 +139,4 @@ sealed class Result {
 - Add tests — iteration 24 (2023)
 - Update dependencies — iteration 29 (2023)
 - Fix edge case — iteration 32 (2023)
+- Polish code — iteration 36 (2023)
