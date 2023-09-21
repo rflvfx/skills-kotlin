@@ -134,3 +134,4 @@ sealed class Result {
 - Extend coverage — iteration 2 (2023)
 - Refactor module — iteration 4 (2023)
 - Improve naming — iteration 6 (2023)
+- Add example — iteration 12 (2023)
