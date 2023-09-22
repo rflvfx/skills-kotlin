@@ -133,3 +133,4 @@ sealed class Result {
 - Update config — iteration 60 (2022)
 - Extend coverage — iteration 2 (2023)
 - Refactor module — iteration 4 (2023)
+- Improve naming — iteration 6 (2023)
