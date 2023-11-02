@@ -113,3 +113,4 @@ fun main() {
 - Minor cleanup — iteration 54 (2022)
 - Update docs — iteration 56 (2022)
 - Polish code — iteration 1 (2023)
+- Document usage — iteration 3 (2023)
