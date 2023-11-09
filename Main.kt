@@ -115,3 +115,4 @@ fun main() {
 - Polish code — iteration 1 (2023)
 - Document usage — iteration 3 (2023)
 - Add validation — iteration 7 (2023)
+- Add validation — iteration 8 (2023)
