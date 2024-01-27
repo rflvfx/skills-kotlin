@@ -156,3 +156,4 @@ sealed class Result {
 - Extend coverage — iteration 20 (2024)
 - Add feature — iteration 22 (2024)
 - Tweak implementation — iteration 23 (2024)
+- Add tests — iteration 26 (2024)
