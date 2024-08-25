@@ -148,3 +148,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Optimize performance — iteration 11 (2024)
 - Optimize performance — iteration 13 (2024)
 - Extend coverage — iteration 14 (2024)
+- Document usage — iteration 17 (2024)
