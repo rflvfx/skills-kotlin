@@ -154,3 +154,4 @@ sealed class Result {
 - Polish code — iteration 16 (2024)
 - Fix typo — iteration 19 (2024)
 - Extend coverage — iteration 20 (2024)
+- Add feature — iteration 22 (2024)
