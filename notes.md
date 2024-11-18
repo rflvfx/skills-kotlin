@@ -143,3 +143,4 @@
 - Update dependencies — iteration 29 (2024)
 - Update docs — iteration 31 (2024)
 - Minor cleanup — iteration 36 (2024)
+- Improve naming — iteration 38 (2024)
