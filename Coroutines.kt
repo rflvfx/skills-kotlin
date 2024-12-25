@@ -145,3 +145,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Improve error handling — iteration 3 (2024)
 - Fix edge case — iteration 6 (2024)
 - Polish code — iteration 10 (2024)
+- Optimize performance — iteration 11 (2024)
