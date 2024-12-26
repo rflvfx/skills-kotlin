@@ -147,3 +147,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Polish code — iteration 10 (2024)
 - Optimize performance — iteration 11 (2024)
 - Optimize performance — iteration 13 (2024)
+- Extend coverage — iteration 14 (2024)
