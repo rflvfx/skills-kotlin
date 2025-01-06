@@ -170,3 +170,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Add validation — iteration 23 (2025)
 - Update dependencies — iteration 25 (2025)
 - Add tests — iteration 26 (2025)
+- Update docs — iteration 33 (2025)
