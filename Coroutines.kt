@@ -172,3 +172,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Add tests — iteration 26 (2025)
 - Update docs — iteration 33 (2025)
 - Refactor module — iteration 34 (2025)
+- Fix edge case — iteration 40 (2025)
