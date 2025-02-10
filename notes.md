@@ -147,3 +147,4 @@
 - Minor cleanup — iteration 39 (2024)
 - Tweak implementation — iteration 60 (2024)
 - Fix lint warnings — iteration 4 (2025)
+- Improve naming — iteration 9 (2025)
