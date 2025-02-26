@@ -151,3 +151,4 @@ fun main() {
 - Fix lint warnings — iteration 32 (2025)
 - Add tests — iteration 37 (2025)
 - Tweak implementation — iteration 39 (2025)
+- Add validation — iteration 41 (2025)
