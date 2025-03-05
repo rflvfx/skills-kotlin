@@ -167,3 +167,4 @@ sealed class Result {
 - Fix typo — iteration 13 (2025)
 - Add helper — iteration 14 (2025)
 - Optimize performance — iteration 18 (2025)
+- Improve naming — iteration 35 (2025)
