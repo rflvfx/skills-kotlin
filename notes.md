@@ -154,3 +154,4 @@
 - Update config — iteration 19 (2025)
 - Fix typo — iteration 28 (2025)
 - Minor cleanup — iteration 29 (2025)
+- Add helper — iteration 30 (2025)
