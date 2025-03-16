@@ -168,3 +168,4 @@ sealed class Result {
 - Add helper — iteration 14 (2025)
 - Optimize performance — iteration 18 (2025)
 - Improve naming — iteration 35 (2025)
+- Document usage — iteration 42 (2025)
