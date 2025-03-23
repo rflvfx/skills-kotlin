@@ -144,3 +144,4 @@ fun main() {
 - Optimize performance — iteration 6 (2025)
 - Update dependencies — iteration 15 (2025)
 - Update dependencies — iteration 21 (2025)
+- Add example — iteration 22 (2025)
