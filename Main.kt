@@ -152,3 +152,4 @@ fun main() {
 - Add tests — iteration 37 (2025)
 - Tweak implementation — iteration 39 (2025)
 - Add validation — iteration 41 (2025)
+- Document usage — iteration 43 (2025)
