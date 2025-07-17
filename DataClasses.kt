@@ -170,3 +170,4 @@ sealed class Result {
 - Improve naming — iteration 35 (2025)
 - Document usage — iteration 42 (2025)
 - Fix lint warnings — iteration 50 (2025)
+- Fix edge case — iteration 53 (2025)
