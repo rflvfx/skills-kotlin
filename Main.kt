@@ -157,3 +157,4 @@ fun main() {
 - Refactor module — iteration 47 (2025)
 - Add feature — iteration 48 (2025)
 - Tweak implementation — iteration 49 (2025)
+- Add helper — iteration 54 (2025)
