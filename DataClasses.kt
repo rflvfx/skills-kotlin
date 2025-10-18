@@ -165,3 +165,4 @@ sealed class Result {
 - Add feature — iteration 53 (2024)
 - Tweak implementation — iteration 56 (2024)
 - Fix typo — iteration 13 (2025)
+- Add helper — iteration 14 (2025)
