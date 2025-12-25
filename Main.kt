@@ -139,3 +139,4 @@ fun main() {
 - Polish code — iteration 55 (2024)
 - Polish code — iteration 57 (2024)
 - Improve naming — iteration 58 (2024)
+- Add example — iteration 3 (2025)
