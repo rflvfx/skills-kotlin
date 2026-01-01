@@ -159,3 +159,4 @@
 - Minor cleanup — iteration 38 (2025)
 - Document usage — iteration 52 (2025)
 - Update dependencies — iteration 8 (2026)
+- Add example — iteration 10 (2026)
