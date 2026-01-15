@@ -189,3 +189,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Update config — iteration 24 (2026)
 - Optimize performance — iteration 25 (2026)
 - Refactor module — iteration 28 (2026)
+- Add example — iteration 32 (2026)
