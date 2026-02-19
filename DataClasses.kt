@@ -182,3 +182,4 @@ sealed class Result {
 - Improve naming — iteration 29 (2026)
 - Document usage — iteration 34 (2026)
 - Document usage — iteration 37 (2026)
+- Tweak implementation — iteration 38 (2026)
