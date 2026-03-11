@@ -185,3 +185,4 @@ sealed class Result {
 - Tweak implementation — iteration 38 (2026)
 - Add helper — iteration 39 (2026)
 - Update docs — iteration 41 (2026)
+- Add validation — iteration 42 (2026)
