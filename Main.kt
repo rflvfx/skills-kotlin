@@ -175,3 +175,4 @@ fun main() {
 - Document usage — iteration 48 (2026)
 - Optimize performance — iteration 57 (2026)
 - Update docs — iteration 59 (2026)
+- Improve naming — iteration 60 (2026)
