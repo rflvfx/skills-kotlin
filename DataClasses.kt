@@ -178,3 +178,4 @@ sealed class Result {
 - Improve naming — iteration 9 (2026)
 - Update docs — iteration 11 (2026)
 - Improve error handling — iteration 19 (2026)
+- Improve error handling — iteration 23 (2026)
