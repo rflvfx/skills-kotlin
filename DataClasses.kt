@@ -180,3 +180,4 @@ sealed class Result {
 - Improve error handling — iteration 19 (2026)
 - Improve error handling — iteration 23 (2026)
 - Improve naming — iteration 29 (2026)
+- Document usage — iteration 34 (2026)
