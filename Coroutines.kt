@@ -181,3 +181,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Improve naming — iteration 2 (2026)
 - Minor cleanup — iteration 5 (2026)
 - Fix typo — iteration 6 (2026)
+- Polish code — iteration 7 (2026)
