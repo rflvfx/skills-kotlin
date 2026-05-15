@@ -161,3 +161,4 @@
 - Update dependencies — iteration 8 (2026)
 - Add example — iteration 10 (2026)
 - Extend coverage — iteration 14 (2026)
+- Improve naming — iteration 22 (2026)
