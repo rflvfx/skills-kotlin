@@ -172,3 +172,4 @@ fun main() {
 - Minor cleanup — iteration 36 (2026)
 - Fix typo — iteration 44 (2026)
 - Add tests — iteration 47 (2026)
+- Document usage — iteration 48 (2026)
