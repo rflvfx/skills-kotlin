@@ -176,3 +176,4 @@ sealed class Result {
 - Tweak implementation — iteration 3 (2026)
 - Fix lint warnings — iteration 4 (2026)
 - Improve naming — iteration 9 (2026)
+- Update docs — iteration 11 (2026)
