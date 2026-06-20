@@ -165,3 +165,4 @@ fun main() {
 - Add example — iteration 15 (2026)
 - Fix edge case — iteration 16 (2026)
 - Update config — iteration 17 (2026)
+- Add helper — iteration 27 (2026)
