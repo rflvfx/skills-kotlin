@@ -177,3 +177,4 @@ sealed class Result {
 - Fix lint warnings — iteration 4 (2026)
 - Improve naming — iteration 9 (2026)
 - Update docs — iteration 11 (2026)
+- Improve error handling — iteration 19 (2026)
