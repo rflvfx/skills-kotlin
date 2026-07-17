@@ -175,3 +175,4 @@ sealed class Result {
 - Add feature — iteration 60 (2025)
 - Tweak implementation — iteration 3 (2026)
 - Fix lint warnings — iteration 4 (2026)
+- Improve naming — iteration 9 (2026)
