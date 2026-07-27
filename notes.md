@@ -163,3 +163,4 @@
 - Extend coverage — iteration 14 (2026)
 - Improve naming — iteration 22 (2026)
 - Document usage — iteration 26 (2026)
+- Optimize performance — iteration 40 (2026)
