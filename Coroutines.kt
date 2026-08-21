@@ -180,3 +180,4 @@ suspend fun fetchUser(): String { delay(100); return "Ana" }
 - Polish code — iteration 1 (2026)
 - Improve naming — iteration 2 (2026)
 - Minor cleanup — iteration 5 (2026)
+- Fix typo — iteration 6 (2026)
