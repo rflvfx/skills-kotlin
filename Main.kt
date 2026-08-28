@@ -174,3 +174,4 @@ fun main() {
 - Add tests — iteration 47 (2026)
 - Document usage — iteration 48 (2026)
 - Optimize performance — iteration 57 (2026)
+- Update docs — iteration 59 (2026)
