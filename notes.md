@@ -164,3 +164,4 @@
 - Improve naming — iteration 22 (2026)
 - Document usage — iteration 26 (2026)
 - Optimize performance — iteration 40 (2026)
+- Add tests — iteration 45 (2026)
