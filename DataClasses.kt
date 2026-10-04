@@ -183,3 +183,4 @@ sealed class Result {
 - Document usage — iteration 34 (2026)
 - Document usage — iteration 37 (2026)
 - Tweak implementation — iteration 38 (2026)
+- Add helper — iteration 39 (2026)
